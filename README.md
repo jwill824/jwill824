@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on devcontainers and dotfiles
-- 🌱 I’m currently learning about Terraform, AWS, and Azure
+Check out my [resume](https://jwill824.github.io/resume/)!
