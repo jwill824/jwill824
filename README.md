@@ -1,18 +1,17 @@
 ## Hi there 👋
 
-<!--
-**jwill824/jwill824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my [resume](https://jwill824.github.io/resume/) and my website [thingstead.io](https://thingstead.io)!
 
-Here are some ideas to get you started:
+```
+  DLSS 5 OFF                    DLSS 5 ON
+  ──────────                    ─────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Check out my [resume](https://jwill824.github.io/resume/)!
+      /\                    ✦ * ✦/\✦ * ✦ * ✦ *
+     /  \                  * ✦ /✦ \* ✦ * ✦ * ✦
+    /    \                ✦ * / ✦  \✦ * # ✦ * #
+   / /\/\ \              * ✦ /✦/\/\✦\ * ✦ # ✦ *
+  /   \/   \            ✦ * /✦ \✦/ ✦ \ ✦ * # * ✦
+ /____/\____\          * ✦ /##✦##/##\##✦##\ * ✦ *
+      |||              ✦ * ✦##|||###|||##✦ * ✦ * ✦
+   ~~~~~~~~~           * ✦≈✦≈✦≈✦≈✦≈✦≈✦≈✦≈✦≈✦≈✦ *
+```
